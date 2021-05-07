@@ -1,3 +1,19 @@
+##  Data too large to upload
+
+movies_metadata.csv
+ratings.csv
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+ratings_small.csv
+wikipedia-movies.json
+
+**.csv
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
